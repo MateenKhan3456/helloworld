@@ -1,3 +1,3 @@
 #Helloworld
-@github/support What do you think about these updates?
+@git/support What do you think about these updates?
 
